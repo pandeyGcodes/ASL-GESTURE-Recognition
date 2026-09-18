@@ -166,7 +166,7 @@ Screenshots of the working application are provided in the `screenshots/` direct
 
 ## Author
 
-**Shivansh Sinha**
+**ANSH PANDEY**
 
 B.Tech Computer Science and Engineering  
 Specialization: Artificial Intelligence and Machine Learning  
