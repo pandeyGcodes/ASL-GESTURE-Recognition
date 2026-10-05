@@ -89,14 +89,7 @@ KNN is a simple supervised machine learning algorithm that classifies an input b
 
 ## Installation
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/SleepDeprivedShi/Computer_vision.git
-cd Computer_vision
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 pip install -r requirements.txt
